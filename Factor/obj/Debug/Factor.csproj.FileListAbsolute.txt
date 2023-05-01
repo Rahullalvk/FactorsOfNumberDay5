@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day_3\Factor\Factor\obj\Debug\Factor.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day_3\Factor\Factor\obj\Debug\Factor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day_3\Factor\Factor\obj\Debug\Factor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day_3\Factor\Factor\bin\Debug\Factor.exe.config
+C:\Users\Admin\Documents\Day_3\Factor\Factor\bin\Debug\Factor.exe
+C:\Users\Admin\Documents\Day_3\Factor\Factor\bin\Debug\Factor.pdb
+C:\Users\Admin\Documents\Day_3\Factor\Factor\obj\Debug\Factor.exe
+C:\Users\Admin\Documents\Day_3\Factor\Factor\obj\Debug\Factor.pdb
